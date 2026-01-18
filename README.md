@@ -2,6 +2,12 @@
 
 A Discord bot for EVE Online players to post event times in EVE Time (UTC) that automatically display in each user's local timezone.
 
+Yes, I totally used our AI overlords to create this! However, your support is appreciated so that I can continue to partner with our overlords on stellar tools for Eve!
+
+**Fly safe! o7** 🚀
+
+Braridur Tast Austrene
+
 ## Features
 
 - **`/evetime`** - Post an EVE Time that shows in everyone's local timezone
@@ -206,4 +212,3 @@ MIT License - Feel free to use and modify for your corp/alliance!
 
 ---
 
-**Fly safe! o7** 🚀

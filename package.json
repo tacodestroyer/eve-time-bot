@@ -1,0 +1,24 @@
+{
+  "name": "eve-time-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for converting EVE Online time (UTC) to local timezones",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "keywords": [
+    "eve-online",
+    "discord",
+    "bot",
+    "timezone",
+    "utc"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "luxon": "^3.4.4"
+  }
+}
